@@ -1,0 +1,14 @@
+layout_spectrum: 0.7902113
+color:
+  saturation: 0.7903226
+  brandStrength: 0.7631834
+  lightness: 0.5107527
+  brandColors:
+    - '#170909'
+    - '#9A251B'
+    - '#FFFFF4'
+    - '#FC4B38'
+    - '#BC8151'
+  rhythmicContrast: 0.3220433
+typography_spectrum: 0.2749889
+name: ROUGE.life
